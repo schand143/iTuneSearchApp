@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/iTuneSearchApp/static/css/main.580bee08.chunk.css",
+    "main.js": "/iTuneSearchApp/static/js/main.baf10adf.chunk.js",
+    "main.js.map": "/iTuneSearchApp/static/js/main.baf10adf.chunk.js.map",
+    "runtime-main.js": "/iTuneSearchApp/static/js/runtime-main.6636830c.js",
+    "runtime-main.js.map": "/iTuneSearchApp/static/js/runtime-main.6636830c.js.map",
+    "static/js/2.bb44baeb.chunk.js": "/iTuneSearchApp/static/js/2.bb44baeb.chunk.js",
+    "static/js/2.bb44baeb.chunk.js.map": "/iTuneSearchApp/static/js/2.bb44baeb.chunk.js.map",
+    "index.html": "/iTuneSearchApp/index.html",
+    "precache-manifest.7f2b1de9815c79ba7f9618898eaa1e78.js": "/iTuneSearchApp/precache-manifest.7f2b1de9815c79ba7f9618898eaa1e78.js",
+    "service-worker.js": "/iTuneSearchApp/service-worker.js",
+    "static/css/main.580bee08.chunk.css.map": "/iTuneSearchApp/static/css/main.580bee08.chunk.css.map",
+    "static/js/2.bb44baeb.chunk.js.LICENSE.txt": "/iTuneSearchApp/static/js/2.bb44baeb.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/iTuneSearchApp/static/media/pause-play-button.67b3520b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6636830c.js",
+    "static/js/2.bb44baeb.chunk.js",
+    "static/css/main.580bee08.chunk.css",
+    "static/js/main.baf10adf.chunk.js"
+  ]
+}

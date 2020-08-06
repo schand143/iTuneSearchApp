@@ -4,7 +4,7 @@ class SearchBar extends Component {
   handleChange = (e) => {
     e.preventDefault();
     let textInput = document.getElementById('searchBar').value;
-    this.props.fetchiTunesData(textInput);
+    this.props.fetchITunesData(textInput);
   };
 
   render() {

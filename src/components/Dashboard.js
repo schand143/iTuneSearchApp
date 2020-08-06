@@ -9,7 +9,7 @@ class Dashboard extends Component {
     resultCount: 0,
   };
 
-  fetchiTunesData = (input) => {
+  fetchITunesData = (input) => {
     axios
       .get(`https://itunes.apple.com/search?term=${input}`)
       .then((response) => {
@@ -26,11 +26,11 @@ class Dashboard extends Component {
   };
 
   render() {
-    const { fetchiTunesData } = this;
+    const { fetchITunesData } = this;
     const { iTunesData, resultCount } = this.state;
     return (
       <div>
-        <SearchBar fetchiTunesData={fetchiTunesData} />
+        <SearchBar fetchITunesData={fetchITunesData} />
         <ITuneList iTunesData={iTunesData} resultCount={resultCount} />
       </div>
     );

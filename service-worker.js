@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/iTuneSearchApp/precache-manifest.7f2b1de9815c79ba7f9618898eaa1e78.js"
+  "/iTuneSearchApp/precache-manifest.1563816a2285fdfc83102659df314a27.js"
 );
 
 self.addEventListener('message', (event) => {
